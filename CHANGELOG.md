@@ -1,5 +1,11 @@
 # @primer/components
 
+## 24.0.1
+
+### Patch Changes
+
+- [`360e3595`](https://github.com/primer/components/commit/360e3595a6e133e8caf391e7355f25b856936b12) [#1111](https://github.com/primer/components/pull/1111) Thanks [@VanAnderson](https://github.com/VanAnderson)! - Update color variable used in ProgressBar (`state.success` → `bg.successInverse`)
+
 ## 24.0.0
 
 ### Major Changes
